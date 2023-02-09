@@ -1,0 +1,9 @@
+1. no responsive
+2. no css framework
+3. meaningful text
+
+
+4. bonus flex right
+5. comment use
+6. pic and gradient mix
+7. add meaninigful another section
